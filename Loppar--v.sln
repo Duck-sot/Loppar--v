@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loppar--v", "Loppar--v.csproj", "{59258389-FB29-419C-A66B-24AAC3E64DC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59258389-FB29-419C-A66B-24AAC3E64DC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59258389-FB29-419C-A66B-24AAC3E64DC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59258389-FB29-419C-A66B-24AAC3E64DC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59258389-FB29-419C-A66B-24AAC3E64DC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A88A15D-967A-4693-A195-C9FF8AE25BFE}
+	EndGlobalSection
+EndGlobal

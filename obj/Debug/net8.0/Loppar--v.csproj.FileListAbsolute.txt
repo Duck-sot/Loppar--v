@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\GitHub\Loppar--v\bin\Debug\net8.0\Loppar--v.exe
+C:\Users\Admin\Documents\GitHub\Loppar--v\bin\Debug\net8.0\Loppar--v.deps.json
+C:\Users\Admin\Documents\GitHub\Loppar--v\bin\Debug\net8.0\Loppar--v.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\Loppar--v\bin\Debug\net8.0\Loppar--v.dll
+C:\Users\Admin\Documents\GitHub\Loppar--v\bin\Debug\net8.0\Loppar--v.pdb
+C:\Users\Admin\Documents\GitHub\Loppar--v\obj\Debug\net8.0\Loppar--v.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\Loppar--v\obj\Debug\net8.0\Loppar--v.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\Loppar--v\obj\Debug\net8.0\Loppar--v.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\Loppar--v\obj\Debug\net8.0\Loppar--v.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\Loppar--v\obj\Debug\net8.0\Loppar--v.dll
+C:\Users\Admin\Documents\GitHub\Loppar--v\obj\Debug\net8.0\refint\Loppar--v.dll
+C:\Users\Admin\Documents\GitHub\Loppar--v\obj\Debug\net8.0\Loppar--v.pdb
+C:\Users\Admin\Documents\GitHub\Loppar--v\obj\Debug\net8.0\Loppar--v.genruntimeconfig.cache
+C:\Users\Admin\Documents\GitHub\Loppar--v\obj\Debug\net8.0\ref\Loppar--v.dll
